@@ -1,0 +1,13 @@
+{
+  "name": "monaounagi-test",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "nuxt": "^2.15.2"
+  }
+}
